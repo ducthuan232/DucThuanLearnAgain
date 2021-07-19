@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DucThuanLearnAgain</string>
+    <string name="text_Title">Phiếu thông tin</string>
+    <string name="hint_name">nhập họ tên</string>
+    <string name="hint_email">Nhập email</string>
+    <string name="hint_Pnumber">Nhập số điện thoại</string>
+    <string name="button_confirm">Xác nhận</string>
+    <string name="txtHello">Xin chào</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Pnumber">số điện thoại</string>
+</resources>

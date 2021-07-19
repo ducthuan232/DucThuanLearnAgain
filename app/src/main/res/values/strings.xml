@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DucThuanLearnAgain</string>
+    <string-array name="list_name">
+        <item>im_lego1</item>
+        <item>im_lego2</item>
+        <item>im_lego3</item>
+        <item>im_lego4</item>
+        <item>im_lego5</item>
+        <item>im_lego6</item>
+        <item>im_lego7</item>
+        <item>im_lego8</item>
+        <item>im_lego9</item>
+        <item>im_lego10</item>
+        <item>im_lego11</item>
+        <item>im_lego12</item>
+
+
+    </string-array>
+</resources>
